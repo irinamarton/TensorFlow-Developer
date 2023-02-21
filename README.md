@@ -14,7 +14,7 @@ Instructed by [<img src="https://github.com/irinamarton/TensorFlow-Developer/blo
 ---
 
 ## Courses
-  1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github1)
+  1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/irinamarton/TensorFlow-Developer/tree/main/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning)
 
   2. [Convolutional Neural Networks in TensorFlow](https://github2)
 

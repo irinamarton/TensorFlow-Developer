@@ -9,7 +9,7 @@ Instructed by [<img src="https://githublaurence_moroney.png" width="20"/> Lauren
 
 [DeepLearning.AI TensorFlow Developer Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
-[<img src="https://github.com/irinamarton/TensorFlow-Developer/blob/main/misc/Coursera%20TensorFlow%20Developer%20M39JZGVD9Y8U.pdf" />](https://https://coursera.org/verify/professional-cert/M39JZGVD9Y8U)
+[<img src="https://github.com/irinamarton/TensorFlow-Developer/blob/main/misc/Coursera%20TensorFlow%20Developer.png" />](https://https://coursera.org/verify/professional-cert/M39JZGVD9Y8U)
 
 ---
 

@@ -1,9 +1,9 @@
 # TensorFlow Developer
 ![Crates.io](https://img.shields.io/crates/l/rustc-serialize?style=flat-square)
 
-[<img src="[https://github.png](https://github.com/irinamarton/TensorFlow-Developer/blob/main/misc/deeplearning_logo.png.html)" width="200"/>](https://www.deeplearning.ai) Professional Certificate
+[<img src="https://github.com/irinamarton/TensorFlow-Developer/blob/main/misc/DeepLearning_White.png" width="200"/>](https://www.deeplearning.ai) Professional Certificate
 
-Instructed by [<img src="[https://githublaurence_moroney.png](https://github.com/irinamarton/TensorFlow-Developer/blob/main/misc/laurence_moroney.png)" width="20"/> Laurence Moroney](https://laurencemoroney.com/about.html)
+Instructed by [<img src="https://githublaurence_moroney.png](https://github.com/irinamarton/TensorFlow-Developer/blob/main/misc/laurence_moroney.png" width="20"/> Laurence Moroney](https://laurencemoroney.com/about.html)
 
 
 
